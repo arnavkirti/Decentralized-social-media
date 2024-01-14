@@ -45,3 +45,9 @@ Now, the project should be up and running on your local server. Open your browse
 6. Web3.js
 7. Ether.js
 8. Material-UI
+
+
+## Additional Info 
+As we were developing the projects we were working separately on different components of the projects to integrate them we used Vercel to host and we have connected the links of those projects for easy integration:
+This is the git Repo for Decentralized To-Do App```https://github.com/arnavkirti/sample-todo.git```
+This is the git Repo for Decentralized Voting Feature```https://github.com/enlytt/votingfeature```
